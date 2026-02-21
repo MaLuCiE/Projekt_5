@@ -6,8 +6,8 @@ Projekt propojuje programovací jazyk Python s databázovým systémem MySQL a d
 
 ## Použité technologie
 
-Programovací jazyk: Python 3
-Databáze: MySQL
-Knihovna pro připojení: mysql-connector-python
-Testování: pytest
-Nástroj pro správu databáze: MySQL Workbench
+- **Programovací jazyk: Python 3**
+- **Databáze: MySQL**
+- **Knihovna pro připojení: mysql-connector-python**
+- **Testování: pytest**
+- **Nástroj pro správu databáze: MySQL Workbench**
